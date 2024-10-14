@@ -1,7 +1,11 @@
 # Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models
 This repository contains code for *Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models* (https://web3.arxiv.org/abs/2406.10584, NeurIPS 2024) by Chengzhengxu Li, Xiaoming Liu*, Zhaohan Zhang, Yichen Wang, Chen Liu, Yu Lan, Chao Shen. 
 
-In this codebase we conduct pilot experiments and find that (i) Prompts gaining more attention weight from PLMs’ deep layers are more generalizable and (ii) Prompts with more stable attention distributions in PLMs’ deep layers are more generalizable. Thus, we offer a fresh objective towards domain-generalizable prompts optimization named ''Concentration'', which represents the ''lookback'' attention from the current decoding token to the prompt tokens, to increase the attention strength on prompts and reduce the fluctuation of attention distribution. 
+In this codebase we conduct pilot experiments and find that (i) Prompts gaining more attention weight from PLMs’ deep layers are more generalizable and (ii) Prompts with more stable attention distributions in PLMs’ deep layers are more generalizable. 
+
+![](figure1.png)
+
+Thus, we offer a fresh objective towards domain-generalizable prompts optimization named ''Concentration'', which represents the ''lookback'' attention from the current decoding token to the prompt tokens, to increase the attention strength on prompts and reduce the fluctuation of attention distribution. 
 
 ![](figure.png)
 
