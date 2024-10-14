@@ -13,7 +13,7 @@ Our codebase requires the following Python and PyTorch versions:
 
 Install our core modules with
 ```
-git clone https://github.com/czx-li/DP2O.git
+git clone https://github.com/czx-li/Concentrate-Attention.git
 ```
 Train and save our modules
 ```
