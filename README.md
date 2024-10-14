@@ -21,3 +21,17 @@ Train and save our modules
 ```
 python main.py
 ```
+## Citation
+
+If you find our work helpful, please cite us with the following BibTex entry:
+
+```
+@article{li2024concentrate,
+  title={Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models},
+  author={Li, Chengzhengxu and Liu, Xiaoming and Zhang, Zhaohan and Wang, Yichen and Liu, Chen and Lan, Yu and Shen, Chao},
+  journal={arXiv preprint arXiv:2406.10584},
+  year={2024}
+}
+```
+
+Link to NeurIPS 2024 version paper: 
