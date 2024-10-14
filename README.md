@@ -7,7 +7,7 @@ In this codebase we conduct pilot experiments and find that (i) Prompts gaining 
 
 Thus, we offer a fresh objective towards domain-generalizable prompts optimization named ''Concentration'', which represents the ''lookback'' attention from the current decoding token to the prompt tokens, to increase the attention strength on prompts and reduce the fluctuation of attention distribution. 
 
-![](figure.png)
+![](figure0.png)
 
 We adapt this new objective to popular soft prompt and hard prompt optimization methods, respectively. Experiments demonstrate that our idea improves comparison prompt optimization methods by 1.42% for soft prompt generalization and 2.16% for hard prompt generalization in accuracy on the multi-source domain generalization setting, while maintaining satisfying in-domain performance. 
 
