@@ -30,12 +30,18 @@ python main.py
 If you find our work helpful, please cite us with the following BibTex entry:
 
 ```
-@article{li2024concentrate,
-  title={Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models},
-  author={Li, Chengzhengxu and Liu, Xiaoming and Zhang, Zhaohan and Wang, Yichen and Liu, Chen and Lan, Yu and Shen, Chao},
-  journal={arXiv preprint arXiv:2406.10584},
-  year={2024}
+@inproceedings{NEURIPS2024_061d5d1b,
+ author = {Li, Chengzhengxu and Liu, Xiaoming and Zhang, Zhaohan and Wang, Yichen and Liu, Chen and Lan, Yu and Shen, Chao},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {3391--3420},
+ publisher = {Curran Associates, Inc.},
+ title = {Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/061d5d1b7d97117764f205d4e038f9eb-Paper-Conference.pdf},
+ volume = {37},
+ year = {2024}
 }
+
 ```
 
 Link to NeurIPS 2024 version paper: 
